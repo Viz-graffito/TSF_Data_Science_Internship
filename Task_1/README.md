@@ -17,11 +17,11 @@ Column 2: Petal length
 <br>
 Column 3: Petal width
 
-![image](./iris1.png)
+![image](./images/iris1.png)
 
 ### Iris Species
 
-![image](./iris.png)
+![image](./images/iris.png)
 
 ### dataset source
 dataset: https://archive.ics.uci.edu/ml/datasets/iris
